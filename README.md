@@ -34,7 +34,7 @@ Here are some ideas to get you started:
  <a href="https://discord.gg/rena#5418" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "anacsganzerla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href=https://www.linkedin.com/in/ana-claudia-526325221/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
+    <iframe src="https://giphy.com/embed/oYQ9HRm5Mo7VXeMNVR" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-error-basic-oYQ9HRm5Mo7VXeMNVR">via GIPHY</a></p>
   </div>
     ![Snake animation](https://github.com/anacszlia/anacszlia/blob/output/github-contribution-grid-snake.svg)
 
