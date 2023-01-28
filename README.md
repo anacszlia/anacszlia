@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá
+A tecnologia é uma das áreas mais expandidas hodiernamente,assim ,vejo possibilidades de transformações e automações nas quais eu busco integrar no meu cotidiano e na sociedade 
+
+### Hi
+Technology is one of the most expanded areas today, so I see possibilities for transformations and automations in which I seek to integrate into my daily life and society
 
 <!--
 **anacszlia/anacszlia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
