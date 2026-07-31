@@ -1,5 +1,4 @@
 ### Hi
-> Technology is evolving faster than I can debug my own code, so here I am trying to sneak some automations into my daily life and, if it works, maybe drag society along with it.
 
 <!--
 **anacszlia/anacszlia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
